@@ -30,7 +30,7 @@
 #4. comment out the library command again
 #5. as needed, update DSAIDE on server by running: sudo su - -c "R -e \"devtools::install_github('ahgroup/DSAIDE')\""
 
-#library('DSAIDE')
+library('DSAIDE')
 
 ##############################################
 #This is the Shiny App for the main menu of DSAIDE
